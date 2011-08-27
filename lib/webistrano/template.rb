@@ -5,3 +5,8 @@ require "webistrano/template/thin_rails"
 require "webistrano/template/pure_file"
 require "webistrano/template/mod_rails"
 require "webistrano/template/unicorn"
+
+module Webistrano
+  module Template
+  end
+end
